@@ -59,8 +59,8 @@ ASP.NET Core teknolojisini kullanarak:
 ### 🎨 1. Kullanıcı Arayüzü - Ana Sayfa (Home Page)
 Bootstrap destekli responsive tasarım. Hakkımda, Yetenekler, Projeler, İletişim gibi bölümlerle kullanıcıya sade bir deneyim sunar.
 
-![Image](https://github.com/user-attachments/assets/f7a04235-3ea8-4fdd-9303-2bdc5cce944d)
-
+![Image](https://github.com/user-attachments/assets/a7d6041e-b5a1-464d-804b-7485d3c8ffef)
+</br>
 ---
 ![Image](https://github.com/user-attachments/assets/6204aef4-42da-421c-be53-30ae9da8bdf3)
 <br>
@@ -78,9 +78,8 @@ Bootstrap destekli responsive tasarım. Hakkımda, Yetenekler, Projeler, İleti�
 <br>
 
 
-![Image](https://github.com/user-attachments/assets/a7d6041e-b5a1-464d-804b-7485d3c8ffef)
+![Image](https://github.com/user-attachments/assets/f7a04235-3ea8-4fdd-9303-2bdc5cce944d)
 <br>
-
 
 ![Image](https://github.com/user-attachments/assets/113fd883-7d8b-4ff3-93b7-7e7dfc96e707)
 <br>
@@ -90,9 +89,6 @@ Bootstrap destekli responsive tasarım. Hakkımda, Yetenekler, Projeler, İleti�
 <br>
 
 
-![Image](https://github.com/user-attachments/assets/6c8f827b-5059-43e8-ae4f-60e1cd0eac6c)
-<br>
-
 
 ![Image](https://github.com/user-attachments/assets/a35a9ad1-c560-4c9f-ac0e-ce75a994bed0)
 <br>
@@ -100,8 +96,6 @@ Bootstrap destekli responsive tasarım. Hakkımda, Yetenekler, Projeler, İleti�
 
 ![Image](https://github.com/user-attachments/assets/e787ab55-a906-405f-a16e-dc1a0cd8c908)
 <br>
-![Image](https://github.com/user-attachments/assets/9b0052f0-f057-4c88-b580-23d5cb60aa81)
-<br>
-![Image](https://github.com/user-attachments/assets/5d92530e-f8bf-4dd2-967f-9636e3a31fce)
+
 
 
