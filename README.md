@@ -85,10 +85,6 @@ Bootstrap destekli responsive tasarım. Hakkımda, Yetenekler, Projeler, İleti�
 <br>
 
 
-![Image](https://github.com/user-attachments/assets/bbbc45e4-cc36-4fb1-8bc6-dd1a6c5fb32e)
-<br>
-
-
 
 ![Image](https://github.com/user-attachments/assets/a35a9ad1-c560-4c9f-ac0e-ce75a994bed0)
 <br>
