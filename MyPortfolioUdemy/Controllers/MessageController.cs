@@ -1,0 +1,44 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using MyPortfolioUdemy.DAL.Context;
+
+namespace MyPortfolioUdemy.Controllers
+{
+	public class MessageController : Controller
+	{
+		MyPortfolioContext context = new MyPortfolioContext();
+		public IActionResult Inbox()
+		{
+			var values =context.Messages.ToList();
+			return View(values);
+		}
+		public IActionResult ChangeIsReadTrue(int id)
+		{
+			var value = context.Messages.Find(id);
+			value.IsRead = true;
+			context.SaveChanges();
+			return RedirectToAction("Inbox");
+		}
+		public IActionResult ChangeIsReadFalse(int id)
+		{
+			var value = context.Messages.Find(id);
+			value.IsRead = false;
+			context.SaveChanges();
+			return RedirectToAction("Inbox");
+		}
+		public IActionResult DeleteMessage(int id)
+		{
+			var value = context.Messages.Find(id);
+			context.Remove(value);
+			context.SaveChanges();
+			return RedirectToAction("Inbox");
+            
+        }
+        public IActionResult MessageDetail(int id)
+        {
+			var value = context.Messages.Find(id);
+			return View(value);
+		}
+
+	}
+}
